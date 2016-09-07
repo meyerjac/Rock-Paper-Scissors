@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RockPaperScissorsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2016-09-07T20:56:18" hostname="epicodus-11.local" time="0.003">
+  <properties/>
+  <testcase name="determineWinner_CheckPlayerOneWin_PlayerOneWins" classname="RockPaperScissorsTest" time="0.001"/>
+  <testcase name="choose_DetermineChoice_Scissors" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="determineWinner_CheckPlayerTwoWin_PlayerTwoWins" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="choose_FailureToComply_YoureADouche" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="computerChooses_shouldBeAString_true" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="determineWinner_CheckIfTie_ItsATie" classname="RockPaperScissorsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
